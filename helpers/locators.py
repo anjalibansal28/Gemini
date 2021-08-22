@@ -1,0 +1,16 @@
+
+create_new_account = '//a[contains(.,"Create new account")]'
+create_business_account = '//a[contains(.,"Create a business account")]'
+page_title = '/html/head/title'
+legal_business_name = '//*[@name="company.legalName"]'
+company_type_dropdown = '//input[@id="companyTypeDropdown"]'
+other_description = '//input[@name="company.companyTypeDetail"]'
+country_business_dropdown = '//input[@id="countryDropdown"]'
+cookies = '//*[@id="cookiePolicyAgreement"]/div/a'
+state = '//input[@id="stateDropdown"]'
+legal_first_name = '//input[@name="personal.legalName.firstName"]'
+legal_middle_name = '//input[@name="personal.legalName.middleName"]'
+legal_last_name = '//input[@name="personal.legalName.lastName"]'
+email = '//input[@name="personal.email"]'
+continue_button = '//button[contains(.,"Continue")]'
+
