@@ -1,6 +1,6 @@
 # Gemini Testing Assignment- Automate the Institutional Client Registration form in Gemini’s sandbox environment.
 
-The project will help to run UI test cases using pytest Framework and generate the reports using allure report.
+The project will help to run UI test cases using pytest Framework and generate the report using allure report.
 
 ## Features
 
